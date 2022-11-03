@@ -20,6 +20,9 @@ h2 {
     font-family: 'Merriweather', serif;
   }
 
+.navbar-brand-name {
+    font-family: 'Sacramento', cursive;
+
   @font-face{
     font-family: "Lovely Home";
     src:local('Lovely Home'), 
